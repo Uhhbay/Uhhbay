@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Abhay SIngh</h1>
 <h3 align="center">A passionate Full-Stack Developer</h3>
 
+I have an interest in Application Developement and Artificial Intelligence/Machine Learning. I am a lifelong learner and I am always looking for new challenges and opportunities to grow.
+
 - 👨‍💻 All of my projects are available at [https://abhay-singh.dev](https://abhay-singh.dev)
 
 - 📫 How to reach me **246abhaysingh@gmail.com**
